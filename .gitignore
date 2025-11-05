@@ -1,0 +1,10 @@
+# Windows and editor temporary files
+Thumbs.db
+.DS_Store
+*.log
+
+# OneDrive / Office temp
+*.tmp
+~$*
+/node_modules
+.env
